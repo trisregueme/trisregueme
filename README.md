@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trisregueme but you can call me Ephy !
 - 👀 I’m interested in web development, technologies and web3.0.
-- 🌱 I’m currently learning HTML, CSS and Sass.
+- 🌱 I’m currently learning HTML, CSS, Sass, JavaScript & React.js.
 - 📫 You can easily reach me on Twitter : @TristanRegueme.
 
 <!---
